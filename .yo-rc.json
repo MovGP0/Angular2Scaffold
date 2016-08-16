@@ -1,0 +1,35 @@
+{
+  "generator-speedseed": {
+    "coreVersion": "generator-speedseed version 0.20.4",
+    "project": "foobar",
+    "template": "multi-tic-tac-toe",
+    "component": "",
+    "framework": "angular2",
+    "test": "jasmine",
+    "compiler": "typescript",
+    "css": "less",
+    "compilerExt": ".ts"
+  },
+  "generator-speedseed-angular2-whitespace": {
+    "component": "",
+    "coreVersion": "generator-speedseed version 0.20.4",
+    "project": "foobar",
+    "template": "angular2-whitespace",
+    "framework": "angular2",
+    "test": "no",
+    "compiler": "typescript",
+    "css": "sass",
+    "compilerExt": ".ts"
+  },
+  "generator-speedseed-multi-tic-tac-toe": {
+    "component": "",
+    "coreVersion": "generator-speedseed version 0.20.4",
+    "project": "foobar",
+    "template": "multi-tic-tac-toe",
+    "framework": "angular2",
+    "test": "jasmine",
+    "compiler": "typescript",
+    "css": "less",
+    "compilerExt": ".ts"
+  }
+}
